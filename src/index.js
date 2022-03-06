@@ -81,8 +81,8 @@ const nameArr = ["田中", "山田", "じゃけえ"];
 // const formattedNum = typeof num === "number" ? num.toLocaleString() : "数字入力して";
 // console.log(formattedNum);
 
-const checkSum = (num1, num2) => {
-  return num1 + num2 > 100 ? "100超えてる" : "許容範囲やで";
-};
+// const checkSum = (num1, num2) => {
+//   return num1 + num2 > 100 ? "100超えてる" : "許容範囲やで";
+// };
 
-console.log(checkSum(389, 90));
+// console.log(checkSum(389, 90));
